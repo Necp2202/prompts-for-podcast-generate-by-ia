@@ -37,9 +37,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Speechify AI](https://speechify.com//))** para criar a arte visual do e-book;
+- IA Generativa **[Craiyon AI](https://www.craiyon.com/))
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
